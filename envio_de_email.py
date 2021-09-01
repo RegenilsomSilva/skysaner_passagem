@@ -23,19 +23,12 @@ class EnvioDeEmails:
         print(f'configuração de Login {os.linesep}')
         self.ENDERECO_EMAIL = os.environ.get('EMAIL_REMETENTE')
         self.SENHA_EMAIL = os.environ.get('SENHA_DO_EMAIL')
-        # self.ENDERECO_EMAIL = 'regenilsom.vcdevaprender@gmail.com'
-        # self.SENHA_EMAIL    = 'Pawlla77!'
         
         
         self.contatos = ['paula43oliveira@hotmail.com',
                          'regenilsomfeliz@outlook.com','regis@servgas.com','niniolegal@hotmail.com','regenilsom2015@gmail.com']
 
-    # def Start_Send(self):
 
-    #     self.Configurations_To_Envio()
-    #     # self.Anexa_Files()
-    #     self.Anexo_Imagens()
-    #     self.To_Send_Email()
 
     def Configurations_To_Envio(self,mensagem_de_envio):
 

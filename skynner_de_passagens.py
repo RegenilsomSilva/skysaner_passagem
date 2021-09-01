@@ -30,6 +30,7 @@ from email.message import EmailMessage
 from email.utils import make_msgid
 import html
 
+    # como subir os driver com os PATH e os buldiPack para o heroku
 
 # Class
 # Importar Biblioteca
@@ -94,6 +95,7 @@ def Buscando_passagem_aerea():
 
     driver.get('https://b2c.voegol.com.br/compra')
     driver.maximize_window()
+    driver.get_window_size()
 
     try:
         print(os.linesep)
