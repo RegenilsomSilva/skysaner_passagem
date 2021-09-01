@@ -55,7 +55,6 @@ print(" ")
 def Buscando_passagem_aerea():
 
     FireFox_options = Options();
-    # FireFox_options = Options()
     FireFox_options.add_argument("--lang=pt-BR");
     FireFox_options.add_argument("--disable-notifications");
     FireFox_options.add_argument("--disable-notifications");
@@ -69,14 +68,16 @@ def Buscando_passagem_aerea():
     FireFox_options.add_argument('--no-sandbox');
 
     # VAMOS DEIXAR QUE O SERVIDOR ASSUMA A FUNÇÃO DO CHROME DRIVER
-    # chrome_options.binary_location = os.environ.get('GOOGLE_CHROME_BIN')
     # caminho_do_driver = os.environ.get('CHROMEDRIVER_PATH')
+    # chrome_options.binary_location = os.environ.get('GOOGLE_CHROME_BIN')
+    FireFox_options.binary_location = os.environ.get('FIREFOX_BIN')
+    caminho_do_driver = os.environ.get('GECKODRIVER_PATH')
 
     # driver = webdriver.Chrome(executable_path=r"./chromedriver.exe",  options=chrome_options)
-    driver = webdriver.Firefox(
-        executable_path=os.getcwd() + os.sep + 'geckodriver.exe')
+    # driver = webdriver.Firefox(
+        # executable_path=os.getcwd() + os.sep + 'geckodriver.exe')
 
-    # driver = webdriver.Chrome(executable_path=caminho_do_driver,  options=chrome_options)
+    driver = webdriver.Firefox(executable_path=caminho_do_driver,  options=FireFox_options)
 
     # VAMOS CONFIGURAR PARA O HEROKU -> NOSSO SERVIDOR PARA RODAR ONLINE
     wait = WebDriverWait(

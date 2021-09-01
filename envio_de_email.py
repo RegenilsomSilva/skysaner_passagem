@@ -21,10 +21,10 @@ class EnvioDeEmails:
     def __init__(self):
         # Configuração de login
         print(f'configuração de Login {os.linesep}')
-        # self.ENDERECO_EMAIL = os.environ.get('EMAIL_REMETENTE')
-        # self.SENHA_EMAIL = os.environ.get('SENHA_DO_EMAIL')
-        self.ENDERECO_EMAIL = 'regenilsom.vcdevaprender@gmail.com'
-        self.SENHA_EMAIL    = 'Pawlla77!'
+        self.ENDERECO_EMAIL = os.environ.get('EMAIL_REMETENTE')
+        self.SENHA_EMAIL = os.environ.get('SENHA_DO_EMAIL')
+        # self.ENDERECO_EMAIL = 'regenilsom.vcdevaprender@gmail.com'
+        # self.SENHA_EMAIL    = 'Pawlla77!'
         
         
         self.contatos = ['paula43oliveira@hotmail.com',
