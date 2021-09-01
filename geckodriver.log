@@ -1,0 +1,1409 @@
+1629851961866	geckodriver	INFO	Listening on 127.0.0.1:63822
+1629851964974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofile8rmyaO"
+1629851965657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofile8rmyaO\\search.json.mozlz4", (void 0)))
+1629851968524	Marionette	INFO	Listening on port 63830
+1629851968750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629852989072	Marionette	INFO	Stopped listening on port 63830
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629853086622	geckodriver	INFO	Listening on 127.0.0.1:62998
+1629853089715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofileMcIjEB"
+1629853090484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileMcIjEB\\search.json.mozlz4", (void 0)))
+1629853093719	Marionette	INFO	Listening on port 63009
+1629853093941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=797381388, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=797381388, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=797381388, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=797381388 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=797381388 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629854398376	Marionette	INFO	Stopped listening on port 63009
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+tatement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1267074206, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1267074206 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1267074206 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629854397038	Marionette	INFO	Stopped listening on port 64431
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofileMSqeHc"
+1629853853362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileMSqeHc\\search.json.mozlz4", (void 0)))
+1629853856401	Marionette	INFO	Listening on port 51996
+1629853856544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1749366193, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1749366193, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1749366193, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1749366193 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1749366193 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1781607621, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1781607621, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1781607621, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1781607621 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1781607621 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629854395337	Marionette	INFO	Stopped listening on port 51996
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+tatement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1537896339 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=256587158, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=256587158, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=256587158, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=256587158 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=256587158 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629853984038	Marionette	INFO	Stopped listening on port 52163
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1629854006087	geckodriver	INFO	Listening on 127.0.0.1:52313
+1629854009133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofileIrNXTt"
+1629854009600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileIrNXTt\\search.json.mozlz4", (void 0)))
+1629854012363	Marionette	INFO	Listening on port 52321
+1629854012873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1629727563, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1629727563, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1629727563, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1629727563 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1629727563 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629854393879	Marionette	INFO	Stopped listening on port 52321
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629854412624	geckodriver	INFO	Listening on 127.0.0.1:60573
+1629854415724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofilenQE2V4"
+1629854416307	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofilenQE2V4\\search.json.mozlz4", (void 0)))
+1629854419296	Marionette	INFO	Listening on port 60581
+1629854419454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=976160981, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=976160981, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=976160981 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+1629854544967	Marionette	INFO	Stopped listening on port 60581
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629854869449	geckodriver	INFO	Listening on 127.0.0.1:62959
+1629854872526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofileWYwuGo"
+1629854873132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileWYwuGo\\search.json.mozlz4", (void 0)))
+1629854875659	Marionette	INFO	Listening on port 62968
+1629854875741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=262560966, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=262560966 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2025847193, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2025847193, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2025847193 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629855111934	Marionette	INFO	Stopped listening on port 62968
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629855361430	geckodriver	INFO	Listening on 127.0.0.1:53945
+1629855364502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofileUG7BEZ"
+1629855365204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileUG7BEZ\\search.json.mozlz4", (void 0)))
+1629855368399	Marionette	INFO	Listening on port 53953
+1629855368707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1578636778, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1578636778, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1578636778 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629855875255	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1629856026104	Marionette	INFO	Stopped listening on port 53953
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629856088045	geckodriver	INFO	Listening on 127.0.0.1:54120
+1629856091121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofilegDegbE"
+1629856091643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofilegDegbE\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1629856094160	Marionette	INFO	Listening on port 54128
+1629856094315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=420620649, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=420620649, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=420620649, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=420620649 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=420620649 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629856144157	Marionette	INFO	Stopped listening on port 54128
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629856160605	geckodriver	INFO	Listening on 127.0.0.1:59482
+1629856163673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofileEudrJu"
+1629856164233	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileEudrJu\\search.json.mozlz4", (void 0)))
+1629856166411	Marionette	INFO	Listening on port 59491
+1629856166911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=357198954, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=357198954, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=357198954, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=357198954 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=357198954 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+1629856390886	Marionette	INFO	Stopped listening on port 59491
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629856431985	geckodriver	INFO	Listening on 127.0.0.1:59918
+1629856435035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofilekN2c2d"
+1629856435621	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofilekN2c2d\\search.json.mozlz4", (void 0)))
+1629856438373	Marionette	INFO	Listening on port 59926
+1629856438742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2092856004, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2092856004, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2092856004, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2092856004 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2092856004 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+1629856555830	Marionette	INFO	Stopped listening on port 59926
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofile0QgjqK"
+1629856502055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofile0QgjqK\\search.json.mozlz4", (void 0)))
+1629856504432	Marionette	INFO	Listening on port 60082
+1629856504857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796352751, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796352751, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796352751, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796352751 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=796352751 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2075516449, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2075516449, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2075516449 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629856553833	Marionette	INFO	Stopped listening on port 60082
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629856576562	geckodriver	INFO	Listening on 127.0.0.1:60239
+1629856579645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofilek3XJ8R"
+1629856580271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofilek3XJ8R\\search.json.mozlz4", (void 0)))
+1629856583301	Marionette	INFO	Listening on port 60247
+1629856583373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1900607376, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1900607376, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1900607376, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1900607376 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1900607376 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Resource  of root-node was not found."
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 91ms)
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.child4/domwalker27, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:289:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:499:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:55:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3747:24\ndestroy@resource://devtools/client/framework/toolbox.js:3685:10\n_forgetBrowserWindow@resource://devtools/client/framework/devtools-browser.js:702:17\nhandleEvent@resource://devtools/client/framework/devtools-browser.js:723:26\n", "resource://devtools/shared/protocol/Front.js", 103))
+1629857118532	Marionette	INFO	Stopped listening on port 60247
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629857150329	geckodriver	INFO	Listening on 127.0.0.1:62235
+1629857153417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofilemMHPfO"
+1629857154059	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofilemMHPfO\\search.json.mozlz4", (void 0)))
+1629857156636	Marionette	INFO	Listening on port 62243
+1629857157134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=708396595, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=708396595, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=708396595, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=708396595 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=708396595 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629857236911	Marionette	INFO	Stopped listening on port 62243
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629926556599	geckodriver	INFO	Listening on 127.0.0.1:54541
+1629926559683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofilelFavpZ"
+1629926560460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofilelFavpZ\\search.json.mozlz4", (void 0)))
+1629926563687	Marionette	INFO	Listening on port 54549
+1629926563931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1708628528, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1708628528, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1708628528 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 251: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 251: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Async method failed in safeAsyncMethod" (new 1629927420564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofile9mkF42"
+1629927421070	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofile9mkF42\\search.json.mozlz4", (void 0)))
+1629927423382	Marionette	INFO	Listening on port 59208
+1629927423787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=736633656, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=736633656, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=736633656, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=736633656 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=736633656 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629928099591	Marionette	INFO	Stopped listening on port 59208
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+ warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=992835195, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=992835195, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=992835195 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=992835195 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629928101085	Marionette	INFO	Stopped listening on port 59324
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629928324883	geckodriver	INFO	Listening on 127.0.0.1:59925
+1629928327963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofiledEpvFV"
+1629928328587	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofiledEpvFV\\search.json.mozlz4", (void 0)))
+1629928331508	Marionette	INFO	Listening on port 56476
+1629928331708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+1629928429440	Marionette	INFO	Stopped listening on port 56476
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629928448015	geckodriver	INFO	Listening on 127.0.0.1:51440
+1629928451104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofileej2okc"
+1629928451693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileej2okc\\search.json.mozlz4", (void 0)))
+1629928454536	Marionette	INFO	Listening on port 64059
+1629928454819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629929697553	Marionette	INFO	Stopped listening on port 64059
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629929720583	geckodriver	INFO	Listening on 127.0.0.1:50897
+1629929723745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofiler5n87n"
+1629929724316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofiler5n87n\\search.json.mozlz4", (void 0)))
+1629929727021	Marionette	INFO	Listening on port 61029
+1629929727515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=190250108, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=190250108, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=190250108, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=190250108 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=190250108 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629930055918	Marionette	INFO	Stopped listening on port 61029
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1629930560559	geckodriver	INFO	Listening on 127.0.0.1:58434
+1629930563675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofile0wqZpC"
+1629930564542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofile0wqZpC\\search.json.mozlz4", (void 0)))
+1629930568283	Marionette	INFO	Listening on port 56692
+1629930568531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1358360157, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1358360157, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1358360157, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1358360157 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1358360157 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629931135366	Marionette	INFO	Stopped listening on port 56692
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+tement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=372715681 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1629931133735	Marionette	INFO	Stopped listening on port 57393
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629931193387	geckodriver	INFO	Listening on 127.0.0.1:50923
+1629931196465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofileAiVHYF"
+1629931197037	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileAiVHYF\\search.json.mozlz4", (void 0)))
+1629931199605	Marionette	INFO	Listening on port 58332
+1629931199683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=120136076, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=120136076, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=120136076, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=120136076 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=120136076 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 398 > injectedScript, line 2: TypeError: e(...) is undefined
+1629931437949	Marionette	INFO	Stopped listening on port 58332
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofilep51crQ"
+1629931246483	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofilep51crQ\\search.json.mozlz4", (void 0)))
+1629931249429	Marionette	INFO	Listening on port 57680
+1629931249722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1309407914, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1309407914, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1309407914 line 1 > eval, line 1: unreachable code after return statement
+1629931252827	Marionette	INFO	Stopped listening on port 57680
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\TI-SERVGAS\AppData\Local\Temp\rust_mozprofilep51crQ\protections.sqlite
+1629931452051	geckodriver	INFO	Listening on 127.0.0.1:61426
+1629931455105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofile67KDRo"
+1629931455646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofile67KDRo\\search.json.mozlz4", (void 0)))
+1629931458056	Marionette	INFO	Listening on port 57346
+1629931458355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=721607927, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=721607927, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=721607927, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=721607927 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=721607927 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 394 > injectedScript, line 2: TypeError: e(...) is undefined
+1629931514303	Marionette	INFO	Stopped listening on port 57346
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+al\\Temp\\rust_mozprofileCcxaAo"
+1629931503560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofileCcxaAo\\search.json.mozlz4", (void 0)))
+1629931506685	Marionette	INFO	Listening on port 62907
+1629931506809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1093517659, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1093517659, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1093517659, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1093517659 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1093517659 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+1629931512272	Marionette	INFO	Stopped listening on port 62907
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x59000C,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1629931592864	geckodriver	INFO	Listening on 127.0.0.1:64452
+1629931595970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\TI-SER~1\\AppData\\Local\\Temp\\rust_mozprofilevuK8Ri"
+1629931596537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TI-SERVGAS\\AppData\\Local\\Temp\\rust_mozprofilevuK8Ri\\search.json.mozlz4", (void 0)))
+1629931598926	Marionette	INFO	Listening on port 55553
+1629931599185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1372391227, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1372391227, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1372391227 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 399 > injectedScript, line 2: TypeError: e(...) is undefined
+1629931675698	Marionette	INFO	Stopped listening on port 55553
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630005578889	geckodriver	INFO	Listening on 127.0.0.1:58153
+1630005581901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilevNR62X"
+1630005583093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilevNR62X\\search.json.mozlz4", (void 0)))
+1630005586958	Marionette	INFO	Listening on port 58161
+1630005587243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=994162935, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=994162935, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=994162935, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=994162935 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=994162935 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630009285858	Marionette	INFO	Stopped listening on port 58161
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=522881164 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=522881164 line 1 > eval, line 1: unreachable code after return statement
+1630005646449	Marionette	INFO	Stopped listening on port 58273
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630009299652	geckodriver	INFO	Listening on 127.0.0.1:51582
+1630009302677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilepk5w6W"
+1630009303405	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilepk5w6W\\search.json.mozlz4", (void 0)))
+1630009306602	Marionette	INFO	Listening on port 51590
+1630009306877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+1630009391016	Marionette	INFO	Stopped listening on port 51590
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+w profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofile6kycKN\\search.json.mozlz4", (void 0)))
+1630009361391	Marionette	INFO	Listening on port 57616
+1630009361900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=314210124, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=314210124, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=314210124, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=314210124 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=314210124 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+1630009366247	Marionette	INFO	Stopped listening on port 57616
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\regis\AppData\Local\Temp\rust_mozprofile6kycKN\protections.sqlite
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1630069781164	geckodriver	INFO	Listening on 127.0.0.1:61705
+1630069784185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileENeMOl"
+1630069785952	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileENeMOl\\search.json.mozlz4", (void 0)))
+1630069793799	Marionette	INFO	Listening on port 61715
+1630069794298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1062830970, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1062830970, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1062830970 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1062830970 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 388 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630070282095	Marionette	INFO	Stopped listening on port 61715
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+AILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1630070478159	geckodriver	INFO	Listening on 127.0.0.1:54213
+1630070481133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilevNAEcr"
+1630070482033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilevNAEcr\\search.json.mozlz4", (void 0)))
+1630070484957	Marionette	INFO	Listening on port 63260
+1630070485339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=974791161, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=974791161, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=974791161, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=974791161 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=974791161 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 388 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+1630070637350	Marionette	INFO	Stopped listening on port 63260
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofile6emjvU"
+1630070551645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofile6emjvU\\search.json.mozlz4", (void 0)))
+1630070554258	Marionette	INFO	Listening on port 52013
+1630070635260	Marionette	INFO	Stopped listening on port 52013
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630071023353	geckodriver	INFO	Listening on 127.0.0.1:51902
+1630071026299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilewGmyN8"
+1630071027101	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilewGmyN8\\search.json.mozlz4", (void 0)))
+1630071030120	Marionette	INFO	Listening on port 51910
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390097,name=PContent::Msg_InitBackground) Channel closing: too late to send/recv, messages will be lost
+
+1630071030476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+1630071388828	Marionette	INFO	Stopped listening on port 51910
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630071436305	geckodriver	INFO	Listening on 127.0.0.1:62110
+1630071439276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilea6BIcq"
+1630071439962	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilea6BIcq\\search.json.mozlz4", (void 0)))
+1630071442909	Marionette	INFO	Listening on port 53448
+1630071442982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+1630071568518	Marionette	INFO	Stopped listening on port 53448
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390132,name=PContent::Msg_ReportServiceWorkerShutdownProgress) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630071592393	geckodriver	INFO	Listening on 127.0.0.1:51074
+1630071595420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileY54NoY"
+1630071596120	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileY54NoY\\search.json.mozlz4", (void 0)))
+1630071598915	Marionette	INFO	Listening on port 51082
+1630071599147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Parent 1696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 388 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://gateway.foresee.com/code/19.14.8-fs/fs.trigger.js, line 8: TypeError: e.globalState.trigger.loadedEmitter is undefined
+1630076516214	Marionette	INFO	Stopped listening on port 51082
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630077813111	geckodriver	INFO	Listening on 127.0.0.1:62876
+1630077816043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilefXJrBd"
+1630077816915	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilefXJrBd\\search.json.mozlz4", (void 0)))
+1630077820636	Marionette	INFO	Listening on port 62884
+[Parent 13820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1630077820871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=867678982, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=867678982, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=867678982 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+1630077997532	Marionette	INFO	Stopped listening on port 62884
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630078013609	geckodriver	INFO	Listening on 127.0.0.1:52913
+1630078016577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileAGSHKu"
+1630078017324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileAGSHKu\\search.json.mozlz4", (void 0)))
+1630078020195	Marionette	INFO	Listening on port 52921
+1630078020280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=575482912, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=575482912, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=575482912, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=575482912 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=575482912 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 388 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://gateway.foresee.com/code/19.14.8-fs/fs.trigger.js, line 8: TypeError: e.globalState.trigger.loadedEmitter is undefined
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1638: Error: permitUnload is already running for this tab.
+1630082634943	Marionette	INFO	Stopped listening on port 52921
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630082651543	geckodriver	INFO	Listening on 127.0.0.1:50006
+1630082654596	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilep8i6Dn"
+1630082655422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilep8i6Dn\\search.json.mozlz4", (void 0)))
+1630082658523	Marionette	INFO	Listening on port 50015
+1630082658793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1788111998, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1788111998, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1788111998, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1788111998 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1788111998 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 388 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1638: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1638: Error: permitUnload is already running for this tab.
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1638: Error: permitUnload is already running for this tab.
+1630082809917	Marionette	INFO	Stopped listening on port 50015
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630082830921	geckodriver	INFO	Listening on 127.0.0.1:52542
+1630082833897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofile5mxuTv"
+1630082834646	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofile5mxuTv\\search.json.mozlz4", (void 0)))
+1630082837576	Marionette	INFO	Listening on port 52552
+1630082837608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1416770486, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1416770486, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1416770486, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1416770486 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1416770486 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+1630082951057	Marionette	INFO	Stopped listening on port 52552
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630083732706	geckodriver	INFO	Listening on 127.0.0.1:51290
+1630083735628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileZmBlGy"
+1630083736503	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileZmBlGy\\search.json.mozlz4", (void 0)))
+1630083739636	Marionette	INFO	Listening on port 51299
+1630083739825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=340060804, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=340060804, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=340060804, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=340060804 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=340060804 line 1 > eval, line 1: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630084262266	Marionette	INFO	Stopped listening on port 51299
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630084910971	geckodriver	INFO	Listening on 127.0.0.1:60421
+1630084913921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilevwiqfj"
+1630084914619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilevwiqfj\\search.json.mozlz4", (void 0)))
+1630084917640	Marionette	INFO	Listening on port 60429
+1630084918165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1554723021, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1554723021, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1554723021, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1554723021 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1554723021 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 388 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+1630085099932	Marionette	INFO	Stopped listening on port 60429
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630085116749	geckodriver	INFO	Listening on 127.0.0.1:63992
+1630085119709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileHa17VM"
+1630085120544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileHa17VM\\search.json.mozlz4", (void 0)))
+1630085123411	Marionette	INFO	Listening on port 65165
+1630085123907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=691637684, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=691637684, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=691637684 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+1630085257483	Marionette	INFO	Stopped listening on port 65165
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1630086014862	geckodriver	INFO	Listening on 127.0.0.1:57209
+1630086017834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilecddHvB"
+1630086018920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofilecddHvB\\search.json.mozlz4", (void 0)))
+1630086022075	Marionette	INFO	Listening on port 57217
+1630086022142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1782617562, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1782617562, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1782617562, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1782617562 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1782617562 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 388 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630087169875	Marionette	INFO	Stopped listening on port 57217
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileCJAZjA"
+1630087143978	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileCJAZjA\\search.json.mozlz4", (void 0)))
+1630087146878	Marionette	INFO	Listening on port 55035
+1630087146982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2085740318, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2085740318, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2085740318, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2085740318 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2085740318 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 388 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630088445946	Marionette	INFO	Stopped listening on port 55035
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+\Temp\\rust_mozprofileeXrfOl"
+1630088112663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileeXrfOl\\search.json.mozlz4", (void 0)))
+1630088116081	Marionette	INFO	Listening on port 62368
+1630088116577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=371813558, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=371813558, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=371813558 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=371813558 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+1630088447400	Marionette	INFO	Stopped listening on port 62368
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630088781839	geckodriver	INFO	Listening on 127.0.0.1:64006
+1630088784806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileidMi5g"
+1630088785523	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileidMi5g\\search.json.mozlz4", (void 0)))
+1630088788709	Marionette	INFO	Listening on port 64014
+1630088789001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=817990782, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=817990782, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=817990782, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=817990782 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=817990782 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+JavaScript error: https://b2c.voegol.com.br/compra line 393 > injectedScript, line 2: TypeError: e(...) is undefined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 250: unreachable code after return statement
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630090861449	Marionette	INFO	Stopped listening on port 64014
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630520682459	geckodriver	INFO	Listening on 127.0.0.1:60214
+1630520685468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileh8EJk4"
+1630520686665	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileh8EJk4\\search.json.mozlz4", (void 0)))
+1630520690585	Marionette	INFO	Listening on port 55558
+1630520690800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=238856415, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=238856415, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=238856415 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 252: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 252: unreachable code after return statement
+1630520700405	Marionette	INFO	Stopped listening on port 55558
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2245: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630520873648	geckodriver	INFO	Listening on 127.0.0.1:56757
+1630520876630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileYCa2fx"
+1630520877988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileYCa2fx\\search.json.mozlz4", (void 0)))
+1630520882234	Marionette	INFO	Listening on port 56766
+1630520882520	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1810816542, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1810816542, line 1: unreachable code after return statement
+JavaScript warning: https://b2c.voegol.com.br/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1810816542 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 252: unreachable code after return statement
+1630520887664	Marionette	INFO	Stopped listening on port 56766
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-N29TWPN, line 252: unreachable code after return statement
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390140,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1630521552333	geckodriver	INFO	Listening on 127.0.0.1:61781
+1630521555270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileriKFXm"
+1630521556068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\regis\\AppData\\Local\\Temp\\rust_mozprofileriKFXm\\search.json.mozlz4", (void 0)))
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
