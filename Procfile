@@ -1,0 +1,1 @@
+worker: python skynner_de_passagens.py
