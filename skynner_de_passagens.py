@@ -90,7 +90,6 @@ def Buscando_passagem_aerea():
                             ElementNotSelectableException,
                             ]
     )
-
     # VAMOS CONFIGURAR PARA O HEROKU -> NOSSO SERVIDOR PARA RODAR OLINE
 
     driver.get('https://b2c.voegol.com.br/compra')
@@ -99,7 +98,6 @@ def Buscando_passagem_aerea():
 
     try:
         print(os.linesep)
-        # driver.get(driver.current_url) # Atualizando sempre a Página para descobri qual o valor está sendo recebido
         # driver.refresh()  # Atualizando sempre a Página para descobri qual o valor está sendo recebido
 
         fechar_politica = wait.until(
