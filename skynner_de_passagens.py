@@ -28,18 +28,18 @@ from math import e, exp
 import pyautogui
 from email.message import EmailMessage
 from email.utils import make_msgid
-import html
+
 
     # como subir os driver com os PATH e os buldiPack para o heroku
 
 # Class
 # Importar Biblioteca
-# Cliar variavéis
-# Cliar Metodos
+# Criar variavéis
+# Criar Metodos
 # instaciar as variasves
-# Cliar Funçôes
+# Criar Funçôes
 # Importar a Biblioteca (squedil)
-#  Dentro do Overview tem que ativar o projeto ser não ele não funciona
+# Dentro do Overview tem que ativar o projeto ser não ele não funciona
 # all active
 
 print(" ")
