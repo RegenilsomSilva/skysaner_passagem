@@ -41,9 +41,6 @@ class EnvioDeEmails:
         self.mensagem['Subject'] = f'O Detetive de Preços encontra preços ótimos para você {Mostrando_o_horario_que_enviou[10:]} do Dia {Mostra_a_data_do_ano}'
         self.mensagem['From'] = self.ENDERECO_EMAIL
         self.mensagem['To'] = ', '.join(self.contatos)
-        # self.mensagem.set_content(f' 🙌🙌🙌🙌 Olá Promoções de Destaque Corre que dura pouco  Boas Compras  ✔️ !!!',{mensagem_de_envio})
-        # self.mensagem.set_content(f' 🙌🙌🙌🙌 Olá, Promoções em Destaque Corre, que dura pouco  Boas Compras  ✔️ !!! ' ,{mensagem_de_envio})
-        # self.mensagem01 = [f' 🙌🙌🙌🙌 Olá, Promoções em Destaque Corre, que dura pouco  Boas Compras  ✔️ !!! ']
         self.mensagem.set_content(mensagem_de_envio)
         time.sleep(1)
         self.mensagem.add_alternative("""\
@@ -81,7 +78,6 @@ class EnvioDeEmails:
 
 # Configurar o anexo de imagens
 
-
     def Anexo_Imagens(self):
 
         print(f'⚙🔍 Configuração de Envio de Imagens para o E-mail...{os.linesep}....Aguarde ⚙🔍 {os.linesep}')
@@ -97,9 +93,7 @@ class EnvioDeEmails:
                 extensao_imagem = imghdr.what(arquivo.name)
                 nome_arquivo = arquivo.name
             self.mensagem.add_attachment(dados, maintype='image',subtype=extensao_imagem, filename=nome_arquivo)
-
-            print(
-                f'⏳ Acabamos de Fazer a Manipulação de imagens.... ⏳ {os.linesep}.....Aguarde')
+            print(f'⏳ Acabamos de Fazer a Manipulação de imagens.... ⏳ {os.linesep}.....Aguarde')
             sleep(random.randint(1, 2))
             print(os.linesep)
 
